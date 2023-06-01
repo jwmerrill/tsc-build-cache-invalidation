@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "composite": true,
+    "rootDir": "src",
+    "baseUrl": "src",
+    "outDir": "build"
+  }
+}
