@@ -1,6 +1,6 @@
 # TSC Build Cache Invalidation
 
-This project is a minimal reproduction of a cache invalidation issue related to subprojects and incremental compilation in the typescript compiler as of version 5.1.3.
+This project is a minimal reproduction of a [cache invalidation issue](https://github.com/microsoft/TypeScript/issues/54501) related to subprojects and incremental compilation in the typescript compiler as of version 5.1.3.
 
 ## Reproduction steps
 1. Install project dependencies
